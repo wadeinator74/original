@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(../Images/gold.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:#00FFBB;
+}
+
+#wrapper{
+	width:1280px;
+	margin:0 auto;
+	background:#FFFFFF;
+	padding: 20px;
+}
+
+header{
+	border-bottom:#00FFBB inset;
+}
+
+nav{
+	background:#3A3939;
+}
+
+nav a{
+	color:#68D3F7;
+	text-decoration:none;
+	padding:5px 20px;
+	font-size:30px;
+	margin:0 auto;
+}
+
+nav a:hover{
+	color:040B0;
+	background:#E7EAEB;
+}
+nav li{
+	display:inline-block;
+	border:#E7EAEB solid 2px;
+}
+main h1{
+	text-align:center;
+	font-size:36px;
+	color:#00FFBB;
+	text-shadow:#000000 2px 2px 2px;
+}
+
+section{
+	width:380px;
+	display:inline-block;
+	margin:7px;
+	background:#000000;
+	vertical-align:top;
+	padding:10px 12px 15px 12px;
+	box-shadow:#3A3A39 2px 2px 3px;
+	min-height:500px;
+	overflow:hidden;
+}
+
+section img{
+	width:380px;
+}
+
+section h2{
+	border-bottom:#00FFBB solid;
+}
+footer{
+	text-align:right;
+}
+
