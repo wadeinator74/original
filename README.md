@@ -1,1 +1,1 @@
-# Go to https://wadeinator74.github.io/original/
+# https://wadeinator74.github.io/original/
